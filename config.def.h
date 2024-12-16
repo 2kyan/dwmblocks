@@ -1,5 +1,5 @@
 /* macro for conveniently specifying pathu and pathc below */
-#define PATH(name)                      "<path to the folder containing block scripts>/"name
+#define PATH(name)                      "/home/liyan/bin/blocks/"name
 
 /* buffer size for capturing output of the programs used for updating blocks */
 #define CMDOUTLENGTH                    50
